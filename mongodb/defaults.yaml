@@ -4,7 +4,7 @@ mongodb:
   version: stable
 
   mongodb_package: mongodb
-  keyid: EA312927
+  keyid: 2930ADAE8CAF5059EE73BB4B58712A2291FA4AD5
   pip: python-pip
 
   # MongoDB 2.4 configuration
